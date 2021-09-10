@@ -1,0 +1,2 @@
+API_KEY = '900bf02ae69fd63a601a2c8af64715a1'
+PASSWORD = 'Atharv@2000'
